@@ -1,5 +1,5 @@
 # unearth-research
-Initially based on the STORM skill for Claude, STORM and UNEARTH both tell you what the evidence says. UNEARTH first checks whether the evidence collection process was rigged — and adjusts accordingly.
+Initially based on the M.I.Ts STORM skill for Claude, STORM and UNEARTH both tell you what the evidence says. UNEARTH first checks whether the evidence collection process was rigged — and adjusts accordingly.
 
 # Claude Research Skills Library
 
